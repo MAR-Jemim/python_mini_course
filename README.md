@@ -14,7 +14,7 @@
 
 | Class | Topic                          |
 |------:|--------------------------------|
-|    01 | [Introduction](Class 01.ipynb) |
+|    01 | [Introduction](https://github.com/MAR-Jemim/python_mini_course/blob/main/Class%2001.ipynb) |
 |     02| Show it                        |
 | 03 | Can you store?                 |
 |04| 
