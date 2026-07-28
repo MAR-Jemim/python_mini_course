@@ -15,7 +15,7 @@
 
 | Class | Topic                                                                                                                 |
 |------:|-----------------------------------------------------------------------------------------------------------------------|
-|    01 | [Introduction](https://github.com/MAR-Jemim/python_mini_course/blob/main/Classes/01.ipynb)                            |
+|    01 | [Introduction and few Operators](https://github.com/MAR-Jemim/python_mini_course/blob/main/Classes/01.ipynb)          |
 |    02 | [Show It (Printing Output)](https://github.com/MAR-Jemim/python_mini_course/blob/main/Classes/02.ipynb) (with String) |
 |    03 | [Variables and Data Types]()   (with data types)                                                                      |
 |    04 | [Taking User Input]()                                                                                                 |
