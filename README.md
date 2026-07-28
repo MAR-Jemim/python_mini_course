@@ -41,3 +41,5 @@ If you practice consistently throughout the course, inshaAllah, you will be able
 - Organize your code using functions.
 - Solve basic programming problems using Python.
 - Continue learning Python on your own using online resources and documentation.
+
+powered by `//>_<` and `proBOT`
