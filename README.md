@@ -13,20 +13,20 @@
 
 ### Learning roadmap
 
-| Class | Topic                                                                                                                 |
-|------:|-----------------------------------------------------------------------------------------------------------------------|
-|    01 | [Introduction and few Operators](https://github.com/MAR-Jemim/python_mini_course/blob/main/Classes/01.ipynb)          |
-|    02 | [Show It (Printing Output)](https://github.com/MAR-Jemim/python_mini_course/blob/main/Classes/02.ipynb) (with String) |
-|    03 | [Variables and Data Types]()   (with data types)                                                                      |
-|    04 | [Taking User Input]()                                                                                                 |
-|    05 | [Type Conversion]()                                                                                                   |
-|    06 | [Lists and Collections]()                                                                                             |
-|    07 | [Decision Making (if/else)]()                                                                                         |
-|    08 | [Loops (while)]()                                                                                                     |
-|    09 | [Loops (for)]()                                                                                                       |
-|    10 | [Functions]()                                                                                                         |
-|    11 | [More Functions]()                                                                                                    |
-|    12 | [Where to go now?]()                                                                                                  |
+| Class | Topic                                                                                                                    |
+|------:|--------------------------------------------------------------------------------------------------------------------------|
+|    01 | [Introduction and few Operators](https://github.com/MAR-Jemim/python_mini_course/blob/main/Classes/01.ipynb)             |
+|    02 | [Show It (Printing Output)](https://github.com/MAR-Jemim/python_mini_course/blob/main/Classes/02.ipynb) (with String)    |
+|    03 | [Variables and Data Types](https://github.com/MAR-Jemim/python_mini_course/blob/main/Classes/03.ipynb) (with data types) |
+|    04 | [Input and Type Conversion](https://github.com/MAR-Jemim/python_mini_course/blob/main/Classes/04.ipynb)                  |
+|    05 | [Lists](https://github.com/MAR-Jemim/python_mini_course/blob/main/Classes/05.ipynb)                                      |
+|    06 | [Collections](https://github.com/MAR-Jemim/python_mini_course/blob/main/Classes/06.ipynb)                                |
+|    07 | [Decision Making (if/else)]()                                                                                            |
+|    08 | [Loops (while)]()                                                                                                        |
+|    09 | [Loops (for)]()                                                                                                          |
+|    10 | [Functions]()                                                                                                            |
+|    11 | [More Functions]()                                                                                                       |
+|    12 | [Where to go now?]()                                                                                                     |
 
 ### By the end of this course
 
@@ -42,4 +42,4 @@ If you practice consistently throughout the course, inshaAllah, you will be able
 - Solve basic programming problems using Python.
 - Continue learning Python on your own using online resources and documentation.
 
-powered by `//>_<` and `proBOT`
+powered by `//>_<` and [`proBOT`](https://codeforces.com/profile/probot001)
